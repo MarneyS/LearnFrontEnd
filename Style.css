@@ -1,0 +1,20 @@
+.signupContainer{
+  border: 5px solid black;
+  height: 65%;
+  width: 50%;
+  margin: 10%  24%;
+  box-shadow: 10px 10px 20px grey;
+  background: linear-gradient(to top, #000099 0%, #0099cc 100%);
+
+}
+#subhead{
+  padding: 5px;
+  color: white;
+}
+#header{
+  color: #ffe6e6;
+  padding: 5px;
+}
+.textbox{
+  width: 100%;
+}
